@@ -1,0 +1,21 @@
+{
+	"block_caret": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_options":
+	[
+		"italic"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"show_encoding": true,
+	"swallow_startup_errors": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"update_check": false,
+	"word_wrap": true
+}
