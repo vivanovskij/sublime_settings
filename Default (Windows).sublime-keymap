@@ -1,0 +1,24 @@
+[
+    {
+        "keys": ["alt+`"], "command": "toggle_terminus_panel", "args": {
+        "config_name": "Default",
+        "cwd": "${file_path:${folder}}"
+    }
+},
+{ 
+    "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+        "config_name": "Default",
+        "cwd": "${file_path:${folder}}"
+    }
+},
+{ 
+    "keys": ["ctrl+d"], "command": "duplicate_line" 
+},
+{
+    "keys": ["ctrl+up"], "command": "swap_line_up" 
+},
+{
+    "keys": ["ctrl+down"], "command": "swap_line_down" 
+},
+
+]

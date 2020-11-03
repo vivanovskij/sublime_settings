@@ -1,5 +1,6 @@
 {
 	"block_caret": true,
+	"caret_style": "solid",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"font_options":
 	[
@@ -17,5 +18,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"update_check": false,
-	"word_wrap": true
+	"word_wrap": true,
+	"rulers": [80],
 }
